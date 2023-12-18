@@ -13,12 +13,11 @@
 **A mathematical perspective on Transformers** by Borjan Geshkovski, Cyril Letrouit, Yury Polyanskiy, and Philippe Rigollet. 
 
 
-  <video width="250" controls>
-  <source src="movies/1.mp4" type="video/mp4">
-  </video>
-  <video width="250" controls>
-  <source src="movies/2.mp4" type="video/mp4">
-  </video>
+
+<p align="center">
+  <img src="movies/1.gif" alt="animated" width="250"/>
+  <img src="movies/2.gif" alt="animated" width="250"/>
+</p>
 
 
 ## Abstract
