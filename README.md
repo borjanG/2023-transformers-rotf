@@ -3,6 +3,12 @@
   A mathematical perspective on Transformers
 </h1>
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2312.10794">
+  <img src="https://zenodo.org/badge/DOI/arxiv.org/abs/2312.10794.svg">
+  </a>
+</p>
+
 <tt>Python</tt> codes for the paper 
 **A mathematical perspective on Transformers** by Borjan Geshkovski, Cyril Letrouit, Yury Polyanskiy, and Philippe Rigollet. 
 
@@ -16,7 +22,7 @@
 
 ## Abstract
 
-*Transformers play a central role in the inner workings of large language models. We develop a mathematical framework for analyzing Transformers based on their interpretation as interacting particle systems, which reveals that clusters emerge in long time. Our study explores the underlying theory and offers new perspectives for mathematicians as well as computer scientists*
+*Transformers play a central role in the inner workings of large language models. We develop a mathematical framework for analyzing Transformers based on their interpretation as interacting particle systems, which reveals that clusters emerge in long time. Our study explores the underlying theory and offers new perspectives for mathematicians as well as computer scientists.*
 
 ## Citing
 
@@ -25,7 +31,7 @@
       title={A mathematical perspective on Transformers}, 
       author={Borjan Geshkovski and Cyril Letrouit and Yury Polyanskiy and Philippe Rigollet},
       year={2023},
-      eprint={?},
+      eprint={2312.10794},
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
